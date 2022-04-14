@@ -41,11 +41,23 @@
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/tree/main/Use%20Cases">Use Cases</a></td>
   </tr>
   <tr>
-    <td>Class/Component Models</td>
+    <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/tree/main/Design">Behavioural Models</a></td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/tree/main/Design">Design</a></td>
   </tr>
   <tr>
-    <td>Behavioural Models</td>
+    <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Design/class_model.png">Class/Component Models</a></td>
+    <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/tree/main/Design">Design</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Design/wireframe_diagram.png">Behavioural Models: Wireframe Diagram</a></td>
+    <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/tree/main/Design">Design</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Design/sequence_diagram.png">Behavioural Models: Sequence Diagram</a></td>
+    <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/tree/main/Design">Design</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Design/state_diagram.png">Behavioural Models: State Diagram</a></td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/tree/main/Design">Design</a></td>
   </tr>
   <tr>
