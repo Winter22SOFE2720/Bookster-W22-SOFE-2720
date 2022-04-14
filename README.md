@@ -11,114 +11,142 @@
 <h3 align="left">Table of Contents:</h3>
 <table>
   <tr>
+    <th>#</th>
     <th>Item</th>
     <th>Directory</th>
   </tr>
   <tr>
+    <td>1.1</td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/traceability_matrix.png">Traceability Matrix</a></td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720">Project Root</a></td>
   </tr>
   <tr>
+    <td>1.2</td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/README.md">Project Description</a></td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720">Project Root</a></td>
   </tr>
   <tr>
+    <td>1.3</td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Team_Assessment_Report.pdf">Team Assessment Report</a></td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720">Project Root</a></td>
   </tr>
   <tr>
+    <td>2.1</td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Requirements/REQUIREMENTS_LIST.md">List of Requirements</a></td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/tree/main/Requirements">Requirements</a></td>
   </tr>
   <tr>
+    <td>2.2</td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Requirements/REQUIREMENTS_REPORT.md">Requirements Report</a></td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/tree/main/Requirements">Requirements</a></td>
   </tr>
   <tr>
+    <td>2.3</td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Requirements/REQUIREMENTS_DIAGRAMS.pdf">Requirements Diagrams</a></td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/tree/main/Requirements">Requirements</a></td>
   </tr>
   <tr>
+    <td>3.1</td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Use%20Cases/use_case_1.pdf">Use Case Diagram #1: Searching by Category</a></td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/tree/main/Use%20Cases">Use Cases</a></td>
   </tr>
   <tr>
+    <td>3.2</td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Use%20Cases/use_case_2.pdf">Use Case Diagram #2: Searching for Books</a></td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/tree/main/Use%20Cases">Use Cases</a></td>
   </tr>
   <tr>
+    <td>4.1</td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/tree/main/Design">Behavioural Models</a></td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/tree/main/Design">Design</a></td>
   </tr>
   <tr>
+    <td>4.2</td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Design/class_model.png">Behavioural Models: Class/Component Models</a></td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/tree/main/Design">Design</a></td>
   </tr>
   <tr>
+    <td>4.3</td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Design/wireframe_diagram.png">Behavioural Models: Wireframe Diagram</a></td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/tree/main/Design">Design</a></td>
   </tr>
   <tr>
+    <td>4.4</td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Design/sequence_diagram.png">Behavioural Models: Sequence Diagram</a></td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/tree/main/Design">Design</a></td>
   </tr>
   <tr>
+    <td>4.5</td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Design/state_diagram.png">Behavioural Models: State Diagram</a></td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/tree/main/Design">Design</a></td>
   </tr>
   <tr>
+    <td>4.6</td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Design/class_responsibilities_table.png">Behavioural Models: Class Responsibilities Table</a></td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/tree/main/Design">Design</a></td>
   </tr>
   <tr>
+    <td>4.7</td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Design/Design_Element_Report.pdf">Design Elements Report</a></td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/tree/main/Design">Design</a></td>
   </tr>
   <tr>
+    <td>5.1</td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/tree/main/Code">Website Code</a></td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/tree/main/Code">Code</a></td>
   </tr>
   <tr>
+    <td>5.2</td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Code/BookDisplay.php">Website Code: Display Book</a></td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Code">Code</a></td>
   </tr>
   <tr>
+    <td>5.3</td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Code/Bookster%20-%20HomePage.html">Website Code: Homepage</a></td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Code">Code</a></td>
   </tr>
   <tr>
+    <td>5.4</td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Code/booksterStyleSheet.css">Website Code: Stylesheet</a></td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Code">Code</a></td>
   </tr>
   <tr>
+    <td>5.5</td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Code/browsing.php">Website Code: Search Results</a></td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Code">Code</a></td>
   </tr>
   <tr>
+    <td>5.6</td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Code/checkout.php">Website Code: Checkout</a></td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Code">Code</a></td>
   </tr>
   <tr>
+    <td>5.7</td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Code/credit.c">Website Code: Credit Card Verification</a></td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Code">Code</a></td>
   </tr>
   <tr>
+    <td>5.8</td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Code/email_sender.php">Website Code: Automated Emails</a></td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Code">Code</a></td>
   </tr>
   <tr>
+    <td>5.9</td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Code/thanksForPurchase.html">Website Code: Purchase - Thanks!</a></td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Code">Code</a></td>
   </tr>
   <tr>
+    <td>5.10</td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/tree/main/Code/Web%20Scraper">Website Code: Bookster Web Scraper</a></td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Code">Code</a></td>
   </tr>
   <tr>
+    <td>5.11</td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Code/bookster_db.sql">Website Code: Bookster SQL DB Dumpfile</a></td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Code">Code</a></td>
   </tr>
   <tr>
+    <td>6.1</td>
     <td>Test Cases</td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/tree/main/Test%20Case">Test Cases</a></td>
   </tr>
