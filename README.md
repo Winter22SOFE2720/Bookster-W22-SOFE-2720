@@ -29,7 +29,7 @@
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/tree/main/Requirements">Requirements</a></td>
   </tr>
   <tr>
-    <td>Requirements Report</td>
+    <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Requirements/REQUIREMENTS_REPORT.md">Requirements Report</a></td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/tree/main/Requirements">Requirements</a></td>
   </tr>
   <tr>
