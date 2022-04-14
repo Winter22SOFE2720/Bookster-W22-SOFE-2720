@@ -19,7 +19,7 @@
   </tr>
   <tr>
     <td>Traceability Matrix</td>
-    <a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720"><td>Project Root</td></a>
+    <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720">Project Root</a></td>
   </tr>
   <tr>
     <td>Project Description</td>
