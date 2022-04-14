@@ -39,11 +39,11 @@
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/tree/main/Requirements">Requirements</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Use%20Cases/use_case_1.png">Use Case Diagram #1: Searching by Category</a></td>
+    <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Use%20Cases/use_case_1.pdf">Use Case Diagram #1: Searching by Category</a></td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/tree/main/Use%20Cases">Use Cases</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Use%20Cases/use_case_2.png">Use Case Diagram #2: Searching for Books</a></td>
+    <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Use%20Cases/use_case_2.pdf">Use Case Diagram #2: Searching for Books</a></td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/tree/main/Use%20Cases">Use Cases</a></td>
   </tr>
   <tr>
