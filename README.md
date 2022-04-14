@@ -25,7 +25,7 @@
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720">Project Root</a></td>
   </tr>
   <tr>
-    <td>List of Requirements</td>
+    <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Requirements/REQUIREMENTS_LIST.md">List of Requirements</a></td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/tree/main/Requirements">Requirements</a></td>
   </tr>
   <tr>
