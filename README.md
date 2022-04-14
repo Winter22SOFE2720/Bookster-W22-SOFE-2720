@@ -1,7 +1,7 @@
 <h1 align="center">SOFE 2720U Software Requirements</h1>
 <h3 align="center">Bookster.com | An Online Bookstore Website</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lcbathtissue&label=Profile%20views&color=0e75b6&style=flat" alt="lcbathtissue" /> </p>
+<img src="" alt="Bookster Logo" />
 
 <h3 align="left">Contributors:</h3>
 <a href="https://github.com/lcbathtissue/"><p align="left">Alden O'Cain</p></a>
@@ -19,51 +19,51 @@
   </tr>
   <tr>
     <td>Traceability Matrix</td>
-    <td>Project Root</td>
+    <a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720"><td>Project Root</td></a>
   </tr>
   <tr>
     <td>Project Description</td>
-    <td>Project Root</td>
+    <a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720"><td>Project Root</td></a>
   </tr>
   <tr>
     <td>Team Assessment Report</td>
-    <td>Project Root</td>
+    <a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720"><td>Project Root</td></a>
   </tr>
   <tr>
     <td>List of Requirements</td>
-    <td>Requirements</td>
+    <a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/tree/main/Requirements"><td>Requirements</td></a>
   </tr>
   <tr>
     <td>Requirements Report</td>
-    <td>Requirements</td>
+    <a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/tree/main/Requirements"><td>Requirements</td></a>
   </tr>
   <tr>
     <td>Use Case Diagram #1: Searching by Category</td>
-    <td>Use Cases</td>
+    <a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/tree/main/Use%20Cases"><td>Use Cases</td></a>
   </tr>
   <tr>
     <td>Use Case Diagram #2: Searching for Books</td>
-    <td>Use Cases</td>
+    <a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/tree/main/Use%20Cases"><td>Use Cases</td></a>
   </tr>
   <tr>
     <td>Class/Component Models</td>
-    <td>Design</td>
+    <a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/tree/main/Design"><td>Design</td></a>
   </tr>
   <tr>
     <td>Behavioural Models</td>
-    <td>Design</td>
+    <a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/tree/main/Design"><td>Design</td></a>
   </tr>
   <tr>
     <td>Design Elements Report</td>
-    <td>Design</td>
+    <a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/tree/main/Design"><td>Design</td></a>
   </tr>
   <tr>
     <td>Website Code</td>
-    <td>Design</td>
+    <a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/tree/main/Design"><td>Design</td></a>
   </tr>
   <tr>
     <td>Test Cases</td>
-    <td>Test Cases</td>
+    <a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/tree/main/Test%20Case"><td>Test Cases</td></a>
   </tr>
 </table>
   
