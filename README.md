@@ -45,7 +45,7 @@
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/tree/main/Design">Design</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Design/class_model.png">Class/Component Models</a></td>
+    <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Design/class_model.png">Behavioural Models: Class/Component Models</a></td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/tree/main/Design">Design</a></td>
   </tr>
   <tr>
