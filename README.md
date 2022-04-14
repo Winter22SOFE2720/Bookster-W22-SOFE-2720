@@ -13,11 +13,11 @@
     <th>Directory</th>
   </tr>
   <tr>
-    <td>Traceability Matrix</td>
+    <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/traceability_matrix.png">Traceability Matrix</a></td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720">Project Root</a></td>
   </tr>
   <tr>
-    <td>Project Description</td>
+    <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/README.md">Project Description</a></td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720">Project Root</a></td>
   </tr>
   <tr>
