@@ -1,0 +1,300 @@
+/* code for homePage */
+body {
+    margin: 0px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.mainContent {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+#mainNavBar {
+    background-color: #34573c;
+    border-radius: 8px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-left: none;
+    margin-bottom: 20px;
+}
+
+#mainNavBar a {
+    color: white;
+    text-decoration: none;
+}
+
+.searchBar {
+    height: 20px;
+    border-style: hidden;
+    border-radius: 5px;
+}
+
+#cart {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #2d713d;
+    color: white;
+    padding: 2px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    width: 40px;
+    border-radius: 16px;
+}
+
+#line1 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.logo {
+    background-color: #34573c;
+    padding-top: 5px;
+    position: relative;
+    right: 55px;
+    border-radius: 16px;
+
+}
+
+.css-1vs2kf0,
+.css-1vs2kf0 div {
+    display: inline;
+}
+
+.category {
+    margin-top: 35px;
+    color: white;
+    background-color: #34573c;
+    width: 150px;
+    height: 35px;
+    border-radius: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.category a {
+    color: white;
+    text-decoration: none;
+}
+
+.category a:hover {
+    color: black;
+    text-decoration: none;
+}
+
+#line2 {
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 75px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.promoDesc {
+    width: 450px;
+    margin-right: 20px;
+}
+
+#mainPromoCard {
+    display: flex;
+    background-color: #34573c;
+    color: white;
+    width: 600px;
+    height: 250px;
+    align-items: center;
+    border-radius: 8px;
+}
+
+#mainPromoCard p {
+    display: inline;
+}
+
+.promoCardImage {
+    height: 225px;
+    margin-left: 15px;
+    border-radius: 8px;
+}
+
+.itemDesc {
+    margin-left: 10px;
+    color: white;
+}
+
+.itemDesc :first-child {
+    margin-bottom: 3px;
+}
+
+.itemDesc :nth-child(2) {
+    margin-bottom: 15px;
+}
+
+.itemDesc h2 {
+    display: inline;
+    font-size: larger;
+}
+
+.buyBtn {
+    background-color: #2d713d;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+
+.priceTag {
+    color: white;
+    font-size: 32px;
+}
+
+#line3 {
+    display: flex;
+    margin: 6px;
+    margin-top: 50px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.promoCard {
+    display: flex;
+    color: white;
+    background-color: #34573c;
+    width: 450px;
+    height: 250px;
+    align-items: center;
+    border-radius: 8px;
+}
+
+.promoCard p {
+    display: inline;
+}
+
+#line3 .itemDesc {
+    margin-left: 55px;
+    text-align: center;
+}
+
+#line5 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.bestImg {
+    height: 300px;
+    border-radius: 8px;
+}
+
+/* code for main book page */
+.mainBookCard {
+    background-color: #34573c;
+    border-radius: 16px;
+    width: 1000px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.mainBookCardImage {
+    width: 250px;
+    margin: 15px;
+    border-radius: 16px;
+}
+
+.mainBookCard .itemDesc {
+    margin-left: 15px;
+}
+
+.mainBookCard .itemDesc :first-child {
+    margin-top: 50px;
+    margin-bottom: 15px;
+}
+
+.mainBookCard p {
+    display: inLine;
+}
+
+.mainBookCard .buyBtn {
+    display: block;
+    position: relative;
+    top: 20px;
+}
+
+.bookDisplay {
+    width: 100%;
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer {
+    height: 250px;
+    background-color: #34573c;
+    border-top-right-radius: 16px;
+    border-top-left-radius: 16px;
+    margin-top: 100px;
+}
+
+.footerContent {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: white;
+}
+
+.footerContent a {
+    text-decoration: none;
+    color: white;
+}
+
+.footerHeader h3 {
+    font-size: 24px;
+}
+
+.footerHeader a {
+    display: flex;
+    padding-top: 20px;
+}
+
+#closingTag {
+    align-self: center;
+    font-size: 32px;
+}
+
+.results {
+    display: flex;
+    justify-content: space-between;
+
+    margin: 65px 50px;
+}
+
+.resultsCard {
+    display: flex;
+    color: white;
+    background-color: #34573c;
+    width: 450px;
+    height: 250px;
+    align-items: center;
+    border-radius: 8px;
+}
+
+.resultsCard .itemDesc {
+    margin-left: 20px;
+}
+
+.resultsCardImage {
+    height: 225px;
+    margin-left: 15px;
+    border-radius: 8px;
+}
+
+.resultsBreak {
+    background-color: lightgrey;
+    display: block;
+    height: 2px;
+    border: none;
+    border-radius: 2px;
+}
