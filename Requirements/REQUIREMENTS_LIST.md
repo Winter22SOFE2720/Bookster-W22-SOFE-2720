@@ -1,6 +1,8 @@
 <h1 align="center">SOFE 2720U Software Requirements</h1>
 <h3 align="center">Bookster.com | An Online Bookstore Website</h3>
 
+<p align="center"><img src="../logo.png" alt="bookster logo"></p>
+
 <ul>
   <li>Access/download purchased books</li>
   <li>Must have PDF book previews</li>
