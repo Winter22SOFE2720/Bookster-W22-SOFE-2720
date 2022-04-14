@@ -111,6 +111,10 @@
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Code">Code</a></td>
   </tr>
   <tr>
+    <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Code/bookster_db.sql">Website Code: Bookster SQL DB Dumpfile</a></td>
+    <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Code">Code</a></td>
+  </tr>
+  <tr>
     <td>Test Cases</td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/tree/main/Test%20Case">Test Cases</a></td>
   </tr>
