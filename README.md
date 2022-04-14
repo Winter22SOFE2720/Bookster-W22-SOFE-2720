@@ -5,6 +5,8 @@
 
 <h3 align="left">Project Description:</h3>
 <p align="left">Bookster.com is our submission for the final project in SOFE-2720 Principles of Software Requirements Engineering at Ontario Tech U. Bookster is a website that sells books both in a physical and e-book form. Bookster is an online shopping system which allows for electronic commerce where consumers directly buy goods from an online vendor without an intermediary service. Bookster.com allows visitors to view available products, their prices and provides a checkout / payment option complete with credit card verification methods. After a purchase is made Bookster's inventory of books in the database is adjusted and the purchase is saved to history on the users account unless purchased as a guest. Additional features have been added such as the ability to send automated emails to our users at different times, for example account creation, forgot password, and after checkout.</p>
+
+<p align="left">Additionally to make this project more interesting we also worked on developing a web scraper that would be able to automatically generate an extensive collection of Books, 2000+ Book URL's with PDF files were found as well as scripts written in Python to scrape additional data from GoodReads and create a PDF preview file of the book with additional pages truncated after N pages. For example for a given book file we are able to automatically truncate the remaining pages after N=20 pages to create a preview of the book.</p>
   
 <h3 align="left">Table of Contents:</h3>
 <table>
@@ -102,6 +104,10 @@
   </tr>
   <tr>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Code/thanksForPurchase.html">Website Code: Purchase - Thanks!</a></td>
+    <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Code">Code</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/tree/main/Code/Web%20Scraper">Website Code: Bookster Web Scraper</a></td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Code">Code</a></td>
   </tr>
   <tr>
