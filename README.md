@@ -1,29 +1,69 @@
 <h1 align="center">SOFE 2720U Software Requirements</h1>
 <h3 align="center">Bookster.com | An Online Bookstore Website</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lcbathtissue&label=Profile%20views&color=0e75b6&style=flat" alt="lcbathtissue" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lcbathtissue&label=Profile%20views&color=0e75b6&style=flat" alt="lcbathtissue" /> </p>
 
 <h3 align="left">Contributors:</h3>
-<a href="https://github.com/lcbathtissue/"><p align="left">Alden O'Cain</p>
-<a href="https://github.com/reyhankogukoglu"><p align="left">Reyhan Kogukoglu</p>
-<a href="https://github.com/JohvonneK"><p align="left">Johvonne Keane</p>
+<a href="https://github.com/lcbathtissue/"><p align="left">Alden O'Cain</p></a>
+<a href="https://github.com/reyhankogukoglu"><p align="left">Reyhan Kogukoglu</p></a>
+<a href="https://github.com/JohvonneK"><p align="left">Johvonne Keane</p></a>
 
+<h3 align="left">Project Description:</h3>
+<p align="left">This is a description of our project</p>
+  
 <h3 align="left">Table of Contents:</h3>
 <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>Item</th>
+    <th>Directory</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>Traceability Matrix</td>
+    <td>Project Root</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>Project Description</td>
+    <td>Project Root</td>
+  </tr>
+  <tr>
+    <td>Team Assessment Report</td>
+    <td>Project Root</td>
+  </tr>
+  <tr>
+    <td>List of Requirements</td>
+    <td>Requirements</td>
+  </tr>
+  <tr>
+    <td>Requirements Report</td>
+    <td>Requirements</td>
+  </tr>
+  <tr>
+    <td>Use Case Diagram #1: Searching by Category</td>
+    <td>Use Cases</td>
+  </tr>
+  <tr>
+    <td>Use Case Diagram #2: Searching for Books</td>
+    <td>Use Cases</td>
+  </tr>
+  <tr>
+    <td>Class/Component Models</td>
+    <td>Design</td>
+  </tr>
+  <tr>
+    <td>Behavioural Models</td>
+    <td>Design</td>
+  </tr>
+  <tr>
+    <td>Design Elements Report</td>
+    <td>Design</td>
+  </tr>
+  <tr>
+    <td>Website Code</td>
+    <td>Design</td>
+  </tr>
+  <tr>
+    <td>Test Cases</td>
+    <td>Test Cases</td>
   </tr>
 </table>
   
