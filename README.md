@@ -53,8 +53,40 @@
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/tree/main/Design">Design</a></td>
   </tr>
   <tr>
-    <td>Website Code</td>
-    <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/tree/main/Design">Design</a></td>
+    <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/tree/main/Code">Website Code</a></td>
+    <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/tree/main/Code">Code</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Code/BookDisplay.php">Website Code: Display Book</a></td>
+    <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Code">Code</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Code/Bookster%20-%20HomePage.html">Website Code: Homepage</a></td>
+    <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Code">Code</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Code/booksterStyleSheet.css">Website Code: Stylesheet</a></td>
+    <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Code">Code</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Code/browsing.php">Website Code: Search Results</a></td>
+    <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Code">Code</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Code/checkout.php">Website Code: Checkout</a></td>
+    <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Code">Code</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Code/credit.c">Website Code: Credit Card Verification</a></td>
+    <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Code">Code</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Code/email_sender.php">Website Code: Automated Emails</a></td>
+    <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Code">Code</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Code/thanksForPurchase.html">Website Code: Purchase - Thanks!</a></td>
+    <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Code">Code</a></td>
   </tr>
   <tr>
     <td>Test Cases</td>
