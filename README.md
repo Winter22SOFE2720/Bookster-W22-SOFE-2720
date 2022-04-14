@@ -1,7 +1,7 @@
 <h1 align="center">SOFE 2720U Software Requirements</h1>
 <h3 align="center">Bookster.com | An Online Bookstore Website</h3>
 
-<img src="logo.png" alt="bookster logo">
+<p align="center"><img src="logo.png" alt="bookster logo"></p>
 
 <h3 align="left">Contributors:</h3>
 <a href="https://github.com/lcbathtissue/"><p align="left">Alden O'Cain</p></a>
