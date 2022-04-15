@@ -147,7 +147,7 @@
   </tr>
   <tr>
     <td>6.1</td>
-    <td>Test Cases</td>
+    <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/blob/main/Test%20Case/TEST_CASES.pdf">Test Cases</a></td>
     <td><a href="https://github.com/Winter22SOFE2720/Bookster-W22-SOFE-2720/tree/main/Test%20Case">Test Cases</a></td>
   </tr>
 </table>
